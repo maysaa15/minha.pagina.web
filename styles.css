@@ -1,16 +1,24 @@
+body{ background:hsl(329, 98%, 46%)
+}
+
 h1 {
     text-align: center;
     font-size: 50px;
     color: aqua;
 }
 
-p { 
+.p1 { 
     text-align: justify;
     font-size: 20px;
     color: rgb(255, 255, 255);
 }
 
-
+.p2 {
+    text-align: justify;
+    font-size: 30px;
+    color: aquamarine;
+}
+ 
 
 body{
     background: hsl(329, 98%, 46%) ;
@@ -23,5 +31,6 @@ strong{
     color: aquamarine;
 }
 
-#img1{ display: block;
+#img1{ 
+display: block;
 margin: 0 auto;}
